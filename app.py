@@ -80,4 +80,4 @@ and you can track the trees development.
 
 m = folium.Map()
 region = Geocoder().add_to(m)
-folium_static(m, width=700)
+folium_static(m)
