@@ -3,7 +3,7 @@ import folium
 from streamlit_folium import st_folium, folium_static
 from folium.plugins import Geocoder
 
-st.markdown("<h1 style='text-align: center; color: orange;'>MyTree App</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: orange;'>MyTree App🌲</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: green;'>Calculator</h2>", unsafe_allow_html=True)
 st.markdown("""
 Are you wondering how much carbon you've created?
