@@ -9,3 +9,14 @@ header {
 footer {
 	visibility: hidden;
 	}
+
+footer:before {
+    content:'Source & Method: IPCC'; 
+    visibility: visible;
+    display: block;
+    position: relative;
+    background-color: rgb(255, 219, 219);
+    border-radius: 50px;
+    padding: 5px;
+    top: 2px;
+}
