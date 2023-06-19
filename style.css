@@ -11,12 +11,13 @@ footer {
 	}
 
 footer:before {
-    content:'Source & Method: IPCC'; 
+    content:'Source & Method: IPCC';
+    text-align: center;
     visibility: visible;
     display: block;
     position: relative;
-    background-color: rgb(255, 219, 219);
-    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
     padding: 5px;
     top: 2px;
 }
